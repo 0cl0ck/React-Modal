@@ -1,4 +1,4 @@
-```markdown
+
 # React Modal Component
 
 A lightweight, customizable modal component for React applications.
@@ -90,5 +90,4 @@ Contributions are welcome! If you have any improvements or fixes, feel free to s
 ## License
 
 This project is licensed under the MIT License.
-```
 
