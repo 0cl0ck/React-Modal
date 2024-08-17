@@ -59,11 +59,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-modal-component.git
+   git clone https://github.com/0cl0ck/React-Modal
    ```
 2. Navigate to the project directory:
    ```bash
-   cd react-modal-component
+   cd React-Modal/react-modal-component
    ```
 3. Install the dependencies:
    ```bash
