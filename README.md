@@ -63,7 +63,7 @@ To run this project locally:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd React-Modal/react-modal-component
+   cd React-Modal
    ```
 3. Install the dependencies:
    ```bash
