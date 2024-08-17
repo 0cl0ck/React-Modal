@@ -1,5 +1,3 @@
-Voici une version réindentée et reformulée de ton fichier README pour GitHub :
-
 ```markdown
 # React Modal Component
 
@@ -94,4 +92,3 @@ Contributions are welcome! If you have any improvements or fixes, feel free to s
 This project is licensed under the MIT License.
 ```
 
-N'hésite pas à l'adapter selon tes besoins ou à y ajouter des informations supplémentaires.
