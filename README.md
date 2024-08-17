@@ -52,15 +52,6 @@ The component accepts the following props:
 - **Accessible**, with appropriate ARIA attributes.
 - Closes on outside click.
 
-## Styling
-
-The component comes with basic styling that can be overridden by targeting the following classes:
-
-- `.blocker`: The overlay that covers the screen behind the modal.
-- `.modal`: The modal container.
-- `.modal-open`: Applied to the modal when it's visible.
-- `.modal-children`: Wrapper for the modal content.
-- `.close-modal`: The close button.
 
 ## Development
 
